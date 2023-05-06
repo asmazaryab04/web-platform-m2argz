@@ -1,8 +1,10 @@
 body {
   width: auto;
   height: auto;
+  margin: 0%;
   transition: 10s;
   background-color: rgb(54, 177, 177);
+  font-family: sans-serif;
 }
 
 
