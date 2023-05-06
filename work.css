@@ -1,5 +1,13 @@
-body{
-  background-color: rgb(87, 190, 190); 
-  transition-duration: 10s;
-  transition-timing-function: cubic-bezier(0.96, 0 , 10);
-  background-color: antiquewhite;background ho:  honeydew;
+body {
+  width: auto;
+  height: auto;
+  transition: 10s;
+  background-color: rgb(54, 177, 177);
+}
+
+
+div :hover {
+  background-color: rgb(241, 176, 203);
+  width: 300px;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
